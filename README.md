@@ -1,7 +1,14 @@
- 👋 Hi, I’m @HERNI, an IT professional
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+👨‍💻 Information Technology Projects:
+osTicket (Help Desk Ticketing System)
+osTicket: Prerequisites and Installation
+osTicket: Post-Installation Configuration
+osTicket: Ticket Lifecycle Examples
+Microsoft Azure
+Configuring On-premises Active Directory within Azure VMs
+Network Security Groups (NSGs) and Inspecting Network Protocols
+🤳Connect with me:
+
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
