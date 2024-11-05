@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @HERNIMOUSSAKAYI
+ 👋 Hi, I’m @HERNIMOUSSAKAYI an IT professional
